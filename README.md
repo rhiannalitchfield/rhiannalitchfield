@@ -22,6 +22,7 @@ practitioner perspective:
 - **[prompt-pressure-suite](https://github.com/rhiannalitchfield/prompt-pressure-suite)** — Eval framework for LLM behavior under adversarial follow-up pressure
 - **[context-window-safety-evals](https://github.com/rhiannalitchfield/context-window-safety-evals)** — Maps LLM safety decay across conversation depth
 - **[sla-breach-analyzer](https://github.com/rhiannalitchfield/sla-breach-analyzer)** — SLA breach analysis from ticket CSV exports with HTML reporting
+- **[nasa-tlx-tracker](https://github.com/rhiannalitchfield/nasa-tlx-tracker)** - CLI tool for recording NASA Task Load Index workload assessments and charting them over time
 
 ## Other Projects
 
