@@ -23,6 +23,9 @@ practitioner perspective:
 - **[context-window-safety-evals](https://github.com/rhiannalitchfield/context-window-safety-evals)** — Maps LLM safety decay across conversation depth
 - **[sla-breach-analyzer](https://github.com/rhiannalitchfield/sla-breach-analyzer)** — SLA breach analysis from ticket CSV exports with HTML reporting
 - **[nasa-tlx-tracker](https://github.com/rhiannalitchfield/nasa-tlx-tracker)** - CLI tool for recording NASA Task Load Index workload assessments and charting them over time
+- **[herd-integrity-scanner](https://github.com/rhiannalitchfield/herd-integrity-scanner)** - Python tool taking livestock telemtry
+- **[coefficient-briefing-builder](https://github.com/rhiannalitchfield/coefficient-briefing-builder)** - Turns a CSV of public updates into a briefing
+- **[pr-review-agent](https://github.com/rhiannalitchfield/pr-review-agent)** - Bot that reviews pull requests using Claude
 
 ## Other Projects
 
