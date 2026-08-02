@@ -27,6 +27,7 @@ practitioner perspective:
 - **[coefficient-briefing-builder](https://github.com/rhiannalitchfield/coefficient-briefing-builder)** - Turns a CSV of public updates into a briefing
 - **[pr-review-agent](https://github.com/rhiannalitchfield/pr-review-agent)** - Bot that reviews pull requests using Claude
 - **[synthetic-panel](https://github.com/rhiannalitchfield/synthetic-panel)** - Build a synthetic survey panel from a declarative population spec
+- **[companion-readiness-audit](https://github.com/rhiannalitchfield/companion-readiness-audit)** - Audits consumer AI companion products
 
 ## Other Projects
 
