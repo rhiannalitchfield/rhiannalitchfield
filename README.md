@@ -13,6 +13,8 @@ practitioner perspective:
 - **[When "No" Doesn't Mean No](https://rhiannalitchfield.wordpress.com/2026/06/08/when-no-doesnt-mean-no-testing-llm-pressure-resistance-across-harm-categories/)** — LLM pressure resistance across harm categories
 - **[Context Doesn't Corrupt](https://rhiannalitchfield.wordpress.com/2026/06/15/context-doesnt-corrupt-what-15-eval-runs-tell-us-about-haikus-safety-properties/)** — Whether LLMs concede under conversational pressure
 - **[Claude's Gender Analysis](https://rhiannalitchfield.wordpress.com/2026/06/29/claudes-gender-analysis/)** — Claude's gender and pronoun preferences across prompt conditions
+- **[Four Ways a Refusal Fails](https://rhiannalitchfield.wordpress.com/2026/08/04/four-ways-a-refusal-fails/)** - Four ways from previous research that show how refusals failed
+- **[How to Build an Eval Set From a Moderation Queue Without Leaking Anything](https://rhiannalitchfield.wordpress.com/2026/08/14/how-to-build-an-eval-set-from-a-moderation-queue-without-leaking-anything/)** - Guidelines on how to build an eval set from a moderation queue
 
 ## AI Safety Tools
 
