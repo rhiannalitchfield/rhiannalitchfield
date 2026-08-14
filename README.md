@@ -28,6 +28,7 @@ practitioner perspective:
 - **[pr-review-agent](https://github.com/rhiannalitchfield/pr-review-agent)** - Bot that reviews pull requests using Claude
 - **[synthetic-panel](https://github.com/rhiannalitchfield/synthetic-panel)** - Build a synthetic survey panel from a declarative population spec
 - **[companion-readiness-audit](https://github.com/rhiannalitchfield/companion-readiness-audit)** - Audits consumer AI companion products
+- **[queue-sanitize](https://github.com/rhiannalitchfield/queue-sanitize)** - Library that handles automation across moderation queues and evaluation sets
 
 ## Other Projects
 
