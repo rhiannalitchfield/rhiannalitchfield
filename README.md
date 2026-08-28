@@ -48,4 +48,4 @@ development for novel harm categories. Self-taught Python developer.
 Open to AI safety, T&S, and engineering roles.
 
 📧 rhiannalitchfield@gmail.com  
-🔗 [Blog](https://rhiannalitchfield.wordpress.com/) · [LinkedIn](https://www.linkedin.com/in/rhianna-litchfield/)
+🔗 [Blog](https://rhiannalitchfield.wordpress.com/) · [LinkedIn](https://www.linkedin.com/in/rhianna-litchfield/) · [Website](https://rhiannalitchfield.com/)
